@@ -1,9 +1,8 @@
 export const bio = [
-    "Hello there, This is Vinay Somawat.",
-    `Experienced Frontend Software Engineer with a strong track record of successfully upgrading applications, optimizing performance, and delivering innovative solutions.`,
-    `Eager to apply my technical expertise and in-depth
-    product understanding to drive impactful contributions and exceed expectations in challenging projects.`,
-    "Thanks for taking the time to learn a little about me!",
+    "Hello! My name is Jonathan Ta.",
+    `I am a PhD student at the University of Michigan, Ann Arbor.`,
+    `My current research interests are spatial-temporal statistics and environmental effects on public health.`,
+    "Thank you for taking the time to learn a little about me!",
 ];
 
 export const skills = [
@@ -242,16 +241,8 @@ export const footer = [
         label: "Dev Profiles",
         data: [
             {
-                text: "Stackoverflow",
-                link: "https://stackoverflow.com/users/8461233/vinay-somawat",
-            },
-            {
                 text: "GitHub",
-                link: "https://github.com/vinaysomawat",
-            },
-            {
-                text: "LeetCode",
-                link: "https://leetcode.com/somawatvinay/",
+                link: "https://github.com/jdta95",
             },
         ],
     },
@@ -266,34 +257,12 @@ export const footer = [
                 text: "Print this page",
                 func: "window.print()",
             },
-            {
-                text: "Clone this page",
-                link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-            },
-        ],
-    },
-    {
-        label: "Social Profiles",
-        data: [
-            {
-                text: "Linkedin",
-                link: "https://www.linkedin.com/in/vinaysomawat/",
-            },
-            {
-                text: "Twitter",
-                link: "https://twitter.com/thesigmakid",
-            },
-            {
-                text: "Buy me a coffee",
-                link: "https://www.buymeacoffee.com/r194dME8y",
-            },
         ],
     },
     {
         label: "copyright-text",
         data: [
-            "Made with &hearts; by Vinay Somawat.",
-            "&copy; No Copyrights. Feel free to use this template.",
+            "Template made by Vinay Somawat."
         ],
     },
 ];
